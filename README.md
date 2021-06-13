@@ -1,0 +1,2 @@
+# DjangoFlashCards
+FlahCards implemented Django
